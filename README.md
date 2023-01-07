@@ -13,3 +13,4 @@
 - [5. ELB(Elastic Load Balancing)](https://mammoth-fruitadens-773.notion.site/5-ELB-Elastic-Load-Balancing-979f4e08282646778250144056e58f3d)
 - [6. Auto Scaling](https://mammoth-fruitadens-773.notion.site/6-Auto-Scaling-76ead8c3e2f246d69ba5c93ccf824f99)
 - [7. EBS(Elastic Block Store)](https://mammoth-fruitadens-773.notion.site/7-EBS-Elastic-Block-Store-5562b110fe2d484ea1378a89fbc42e50)
+- [8. S3(Simple Storage Service)](https://mammoth-fruitadens-773.notion.site/8-S3-Simple-Storage-Service-00d47197ac2a4412a85fd3d66edbb635)
