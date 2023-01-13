@@ -16,3 +16,4 @@
 - [8. S3(Simple Storage Service)](https://mammoth-fruitadens-773.notion.site/8-S3-Simple-Storage-Service-00d47197ac2a4412a85fd3d66edbb635)
 - [9. 기타 - 스토리지](https://mammoth-fruitadens-773.notion.site/9-f2709b19f5584811a6b0df3cf45006aa)
 - [10. 글로벌 전송](https://mammoth-fruitadens-773.notion.site/10-f02a098acc0942d882483171cbec1878)
+- [11. 데이터베이스](https://mammoth-fruitadens-773.notion.site/11-ab3a797ba0db4466a7104feeb3bf073f)
