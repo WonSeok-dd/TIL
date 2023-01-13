@@ -18,3 +18,4 @@
 - [10. 글로벌 전송](https://mammoth-fruitadens-773.notion.site/10-f02a098acc0942d882483171cbec1878)
 - [11. 데이터베이스](https://mammoth-fruitadens-773.notion.site/11-ab3a797ba0db4466a7104feeb3bf073f)
 - [12. 데이터 분석 서비스](https://mammoth-fruitadens-773.notion.site/12-d9fe6ead5ffb47d4b1b1f5ecea793df6)
+- [13. 애플리케이션 통합](https://mammoth-fruitadens-773.notion.site/13-558a5b56f1a74379a441fca0591d6276)
