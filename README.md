@@ -19,3 +19,4 @@
 - [11. 데이터베이스](https://mammoth-fruitadens-773.notion.site/11-ab3a797ba0db4466a7104feeb3bf073f)
 - [12. 데이터 분석 서비스](https://mammoth-fruitadens-773.notion.site/12-d9fe6ead5ffb47d4b1b1f5ecea793df6)
 - [13. 애플리케이션 통합](https://mammoth-fruitadens-773.notion.site/13-558a5b56f1a74379a441fca0591d6276)
+- [14. 보안 및 자격 증명](https://mammoth-fruitadens-773.notion.site/14-ab7e7adb7fb246e2b96dd87a4102b984)
