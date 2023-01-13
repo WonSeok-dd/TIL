@@ -15,3 +15,4 @@
 - [7. EBS(Elastic Block Store)](https://mammoth-fruitadens-773.notion.site/7-EBS-Elastic-Block-Store-5562b110fe2d484ea1378a89fbc42e50)
 - [8. S3(Simple Storage Service)](https://mammoth-fruitadens-773.notion.site/8-S3-Simple-Storage-Service-00d47197ac2a4412a85fd3d66edbb635)
 - [9. 기타 - 스토리지](https://mammoth-fruitadens-773.notion.site/9-f2709b19f5584811a6b0df3cf45006aa)
+- [10. 글로벌 전송](https://mammoth-fruitadens-773.notion.site/10-f02a098acc0942d882483171cbec1878)
