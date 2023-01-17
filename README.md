@@ -21,3 +21,4 @@
 - [13. 애플리케이션 통합](https://mammoth-fruitadens-773.notion.site/13-558a5b56f1a74379a441fca0591d6276)
 - [14. 보안 및 자격 증명](https://mammoth-fruitadens-773.notion.site/14-ab7e7adb7fb246e2b96dd87a4102b984)
 - [15. 관리 및 거버넌스](https://mammoth-fruitadens-773.notion.site/15-4dfabfc2ff6d4beea036fbceae06fde8)
+- [16. 네트워크 - Route53](https://mammoth-fruitadens-773.notion.site/16-Route53-53dd31f4c39e4d10a60a76398860e891)
