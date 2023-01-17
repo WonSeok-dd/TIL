@@ -22,3 +22,4 @@
 - [14. 보안 및 자격 증명](https://mammoth-fruitadens-773.notion.site/14-ab7e7adb7fb246e2b96dd87a4102b984)
 - [15. 관리 및 거버넌스](https://mammoth-fruitadens-773.notion.site/15-4dfabfc2ff6d4beea036fbceae06fde8)
 - [16. 네트워크 - Route53](https://mammoth-fruitadens-773.notion.site/16-Route53-53dd31f4c39e4d10a60a76398860e891)
+- [17. 네트워크 - VPC](https://mammoth-fruitadens-773.notion.site/17-VPC-3621e3d749284821a79d109ed0b72ada)
