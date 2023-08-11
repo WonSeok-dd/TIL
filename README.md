@@ -5,7 +5,7 @@
 ```
 
 ## 💡 AWS 
-[![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/75558861/217339490-56182083-0ee0-4c20-89f8-e669ec78a087.png)](https://www.credly.com/badges/afc5ab8e-efe8-45ae-bac7-00381dd6a303/public_url)
+[![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/75558861/217339490-56182083-0ee0-4c20-89f8-e669ec78a087.png)](https://www.credly.com/badges/afc5ab8e-efe8-45ae-bac7-00381dd6a303/public_url) <- **클릭(자격증 정보)**
 
 - [1. AWS 결제 및 비용 관리](https://mammoth-fruitadens-773.notion.site/1-AWS-1f1d9c0e1d244bf5bc4d023da4ad76ee)
 - [2. AWS 글로벌 인프라의 이해](https://mammoth-fruitadens-773.notion.site/2-AWS-a9922c4c259c46cda962d609aebb2b59)
